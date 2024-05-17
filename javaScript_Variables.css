@@ -1,0 +1,31 @@
+body{
+
+  background-image: url("fantasy.jpg");
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  position: relative;
+  font-size: 18px;
+  font-family: 'Amita';
+  font-weight: 500;
+  color: #ffd11a;
+
+}
+
+#content{
+
+  padding: 80px;
+
+}
+
+#frame{
+  
+  border-style: double;
+  width: auto;
+  padding: 20px;
+  margin: auto;
+  text-align: center;
+
+}
